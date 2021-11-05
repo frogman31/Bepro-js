@@ -1,0 +1,2 @@
+# Bepro-js
+bepro testnet
